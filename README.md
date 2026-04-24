@@ -12,5 +12,8 @@ This repository contains files for Email Bilder, including image assets and emai
 <img width="1200" height="1227" alt="logo-black" src="https://github.com/user-attachments/assets/1dfa6cf2-99d4-437c-996b-2e0372098770" />
 <img width="600" height="47" alt="campari group" src="https://github.com/user-attachments/assets/5e45feb6-3510-4b5c-a0cc-29e7364e2735" />
 
+<img width="600" height="100" alt="4081_Campari_Newsletter_Header_FGH_Aperitivo_RZ" src="https://github.com/user-attachments/assets/f909f4cf-a6d5-4461-87a8-3f9b674174ef" />
+
+
 
 - `templates/`: Contains email templates.
